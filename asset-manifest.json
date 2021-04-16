@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d343698.chunk.css",
-    "main.js": "/static/js/main.82746774.chunk.js",
-    "main.js.map": "/static/js/main.82746774.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c5f56934.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c5f56934.js.map",
-    "static/js/2.7df77b68.chunk.js": "/static/js/2.7df77b68.chunk.js",
-    "static/js/2.7df77b68.chunk.js.map": "/static/js/2.7df77b68.chunk.js.map",
-    "static/js/3.d90c9e7c.chunk.js": "/static/js/3.d90c9e7c.chunk.js",
-    "static/js/3.d90c9e7c.chunk.js.map": "/static/js/3.d90c9e7c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.5d343698.chunk.css.map": "/static/css/main.5d343698.chunk.css.map",
-    "static/js/2.7df77b68.chunk.js.LICENSE.txt": "/static/js/2.7df77b68.chunk.js.LICENSE.txt",
-    "static/media/funnyBar.405f03a6.png": "/static/media/funnyBar.405f03a6.png"
+    "main.css": "/FeeliksKilpi/FeeliksKilpi.github.io.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/FeeliksKilpi/FeeliksKilpi.github.io.git/static/js/main.398ce419.chunk.js",
+    "main.js.map": "/FeeliksKilpi/FeeliksKilpi.github.io.git/static/js/main.398ce419.chunk.js.map",
+    "runtime-main.js": "/FeeliksKilpi/FeeliksKilpi.github.io.git/static/js/runtime-main.b400b258.js",
+    "runtime-main.js.map": "/FeeliksKilpi/FeeliksKilpi.github.io.git/static/js/runtime-main.b400b258.js.map",
+    "static/js/2.6a3db2b1.chunk.js": "/FeeliksKilpi/FeeliksKilpi.github.io.git/static/js/2.6a3db2b1.chunk.js",
+    "static/js/2.6a3db2b1.chunk.js.map": "/FeeliksKilpi/FeeliksKilpi.github.io.git/static/js/2.6a3db2b1.chunk.js.map",
+    "static/js/3.ea0770fb.chunk.js": "/FeeliksKilpi/FeeliksKilpi.github.io.git/static/js/3.ea0770fb.chunk.js",
+    "static/js/3.ea0770fb.chunk.js.map": "/FeeliksKilpi/FeeliksKilpi.github.io.git/static/js/3.ea0770fb.chunk.js.map",
+    "index.html": "/FeeliksKilpi/FeeliksKilpi.github.io.git/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/FeeliksKilpi/FeeliksKilpi.github.io.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6a3db2b1.chunk.js.LICENSE.txt": "/FeeliksKilpi/FeeliksKilpi.github.io.git/static/js/2.6a3db2b1.chunk.js.LICENSE.txt",
+    "static/media/Marker.371ecdc5.png": "/FeeliksKilpi/FeeliksKilpi.github.io.git/static/media/Marker.371ecdc5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5f56934.js",
-    "static/js/2.7df77b68.chunk.js",
-    "static/css/main.5d343698.chunk.css",
-    "static/js/main.82746774.chunk.js"
+    "static/js/runtime-main.b400b258.js",
+    "static/js/2.6a3db2b1.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.398ce419.chunk.js"
   ]
 }
